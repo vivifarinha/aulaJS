@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.486)
+}
+#card{
+    background-color: rgba(165, 42, 42, 0.719);
+    width: 20%;
+    margin-left: 700px;
+}
